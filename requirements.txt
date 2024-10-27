@@ -1,0 +1,7 @@
+Flask==3.0.3
+Flask-Bootstrap==3.3.7.1
+Flask-WTF==1.2.1
+Flask-Testing==0.8.1
+blinker==1.8.2
+firebase-admin==6.5.0
+Flask-Login==0.6.3
